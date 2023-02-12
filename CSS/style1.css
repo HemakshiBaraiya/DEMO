@@ -1,0 +1,179 @@
+body{
+    margin: 0;
+    text-align: center;
+    color:#00337C;
+    background-color: #E5E0FF;
+}
+.header{
+    background-color: #A0C3D2;
+    size:100%;
+    position: relative;
+    padding-top: 9.375em;
+}
+h1{
+    font-family: "Brush Script MT", cursive;
+    font-size: 3em;  
+}
+h3{
+    font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; 
+    font-size: 1.50em;
+}
+.top-cloud{
+    position:absolute;
+    top:6.25em;
+    right:18.75em;
+}
+.bottom-cloud{
+    position:absolute;
+    bottom:21.875em;
+}
+.first-container{
+    padding:2.75em;
+    width:50%;
+    margin:0 auto;
+}
+h2{
+    font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; 
+    
+}
+.profile-pic{
+    height:12.5em;
+    width:12.5em;
+}
+.self-decsription{
+width:40%;
+margin:1.25em auto;
+line-height: 1.5;
+color: #C27664;
+font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+font-size: 0.93em;
+font-weight: bold;
+}
+.second-container{
+    width:60%;
+    margin:auto; 
+    position: relative;
+}
+.design-want{
+    width:90%;
+    height:12.5em;
+    margin:1.25em;
+}
+.design-pic{
+    height:10.5em;
+    width:10.5em;
+    float:left;   
+    margin:0.93em auto auto 4.37em;
+}
+.small-design-pic{
+    height:5em;
+    width:5em;
+    position: absolute;
+    top:6.575em;
+    left:18.5em;
+}
+.design-want-description{
+    width:18.75em;
+    text-align: left;
+    position: absolute;
+    right: 30em;
+    left:28em; 
+    text-align: justify;
+}
+.design-p{
+    line-height: 1.5;
+    color: #C27664;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 0.93em;
+    font-weight: bold;
+}
+.develop-need{
+    width:90%;
+    height:12.5em;
+    margin:1.25em;
+}
+.develop-pic{
+    height:10.5em;
+    width:10.5em;
+    float:right;
+    margin:0.93em auto auto 4.375em;
+}
+    
+.small-develop-pic{
+    height:5em;
+    width:5em;
+    position: absolute;
+    top:20.575em;
+    left:28.5em;
+}
+.develop-want-description{
+    width:18.75em;
+    text-align: left;
+    right: 30em;
+    left:6.25em;
+    position: absolute;
+    margin:0;
+}
+.develop-p{
+    line-height: 1.5;
+    color: #C27664;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 0.937em;
+    font-weight: bold;
+    text-align: justify;
+}
+.contact{
+    width:50%;
+    margin:2.575em auto 3.125em;
+}
+.contact h3{
+    font-size: 1.125em;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    padding:0.93em;
+}
+.contact p{
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 1.1em;
+    width:60%;
+    margin:auto;
+    color: #C27664;
+    line-height: 1.5;
+}
+button{
+    background-color: #00337C;
+    height:4em;
+    width:9em;
+    color:white;
+    border-radius: 1.3125em;
+    margin-bottom: 2em;
+}
+.footer{
+    background-color: #A0C3D2;
+    height:60px;;
+    padding: 40px;
+}
+.footer a{
+    
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 1.25em;
+    margin:1.25em 0.625em;
+    color: #00337C;
+    background-color: #7B8FA1;
+    border-radius: 2em;
+    font-size: 1.25em;
+}
+.footer a:hover{
+    color: #C27664;
+}
+hr{
+    border-style: dotted;
+    color:#473C33;
+    width:20%;
+    border-top:30px;
+    border-width:5px;
+    margin: 0 auto;
+}
+.footer p{
+    padding-top:40px;
+}
